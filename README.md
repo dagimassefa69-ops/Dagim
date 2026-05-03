@@ -8,9 +8,7 @@
   <h1>🌐 Welcome to My Website</h1>
   <p>This is my first website</p>
 
-  <button onclick="alert('Hello! Welcome 😊')">
-    Click Me
-  </button>
+  <button onclick="alert('Hello!')">Click Me</button>
 
 </body>
 </html>
